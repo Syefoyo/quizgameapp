@@ -1,0 +1,31 @@
+#left {
+    text-align: center;
+    display: block;
+}
+#myP {
+    text-align: center;
+    display: block;
+}
+body {
+    background-color: cadetblue;
+}
+#line {
+    width: 1500px;
+    height: 10px;
+    background-color: #0b9265;
+    margin-bottom: 100px;
+}
+#name {
+    text-align: center;
+    color:#06fcc6
+}
+#kop {
+    border: white;
+    height: 20px;
+    width: 500px;
+}
+#rty {
+    border: white;
+    height: 20px;
+    width: 500px;
+}
