@@ -22,10 +22,20 @@ body {
 #kop {
     border: white;
     height: 20px;
-    width: 500px;
+    width: 900px;
 }
 #rty {
     border: white;
     height: 20px;
-    width: 500px;
+    width: 900px;
+}
+#hok {
+    border: white;
+    height: 20px;
+    width: 900px;
+}
+#ohk {
+    border: white;
+    height: 20px;
+    width: 900px;
 }
